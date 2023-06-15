@@ -1,14 +1,21 @@
-# Project
+# Adaptive Human Matting for Dynamic Videos (CVPR 2023) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Adaptive_Human_Matting_for_Dynamic_Videos_CVPR_2023_paper.html)]
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+<img src='_fig/main.jpg' width='100%' />
 
-As the maintainer of this project, please make a few updates:
+**Video**
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+[![demo](_fig/demo_thumbnail.jpg)](https://www.youtube.com/watch?v=0yL6mQNUDUs&feature=youtu.be "demo")
+
+## Citation
+```
+@inproceedings{lin2023adam,
+  title={Adaptive Human Matting for Dynamic Videos},
+  author={Lin, Chung-Ching and Wang, Jiang and Luo, Kun and Lin, Kevin and Li, Linjie and Wang, Lijuan and Liu, Zicheng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10229--10238},
+  year={2023}
+}
+```
 
 ## Contributing
 
